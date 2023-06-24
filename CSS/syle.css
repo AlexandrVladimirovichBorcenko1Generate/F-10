@@ -1,0 +1,14 @@
+.divClass{
+
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: url(/Rectangle\ 75.png);
+background-repeat: no-repeat;
+ background-position: center;
+ background-attachment: fixed;
+
+}
+
